@@ -58,13 +58,7 @@ The frontend application will be available at http://localhost:3001
    npm install
    ```
 
-3. Create a `.env` file:
-   ```
-   PORT=3000
-   DATABASE_URL=postgresql://username:password@localhost:5432/url_shortener
-   ```
-
-4. Start the backend server:
+3. Start the backend server:
    ```bash
    npm run dev
    ```
