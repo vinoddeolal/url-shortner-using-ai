@@ -1,4 +1,4 @@
-# URL Shortener Service
+# URL Shortener Using AI Service
 
 > **Note:** This is an AI-generated application
 

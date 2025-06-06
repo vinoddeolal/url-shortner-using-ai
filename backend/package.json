@@ -1,5 +1,5 @@
 {
-  "name": "url-shortener-backend",
+  "name": "url-shorter-using-ai-backend",
   "version": "1.0.0",
   "description": "Backend service for URL shortener",
   "main": "dist/server.js",
